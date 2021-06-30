@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, I'm Sarah! 👋
+
+📫  How to reach me:
+- **Email:** [sarahdepalo99@gmail.com](sarahdepalo99@gmail.com)
+- **LinkedIn:** [Sarah dePalo](https://www.linkedin.com/in/sarahdepalo/)
+  
+<!-- ### Languages and Tools:
+![]() -->
 
 <!--
 **sarahdepalo/sarahdepalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
