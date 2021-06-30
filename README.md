@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarah! 👋
 
-I'm currently attending DigitalCrafts full-stack web developer bootcamp. I enjoy working with all things CSS as well as debugging and working with data and APIs. I don't have a ton of spare time outside of homework and class, but you can usually find me cooking new recipies, reading manga, and petting every dog I see.
+I'm currently attending DigitalCrafts full-stack bootcamp and am loving the challenge and learning something new each day. I enjoy working with all things CSS as well as debugging and working with data and APIs. I don't have a ton of spare time outside of homework and class, but you can usually find me cooking new recipies, reading manga, and petting every dog I see.
   
 ### Languages and Tools:
 ![programming languages](https://user-images.githubusercontent.com/80724077/124001614-d23bdd00-d9a2-11eb-953f-b21423cca8fe.png)
