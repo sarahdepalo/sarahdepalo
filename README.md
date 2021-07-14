@@ -1,10 +1,7 @@
 ## Hi there, I'm Sarah! 👋
 
-I'm currently attending DigitalCrafts full-stack bootcamp and am loving the challenge and learning something new each day.  I don't have a ton of spare time outside of homework and class, but you can usually find me cooking new recipies, reading manga, and petting every dog I see.
+I'm currently attending DigitalCraft's full-stack bootcamp and am loving the challenge and learning everything I can about web development. I enjoy debugging, designing, and working with all things JavaScript and CSS. When I'm not coding, you can find me cooking up new recipies, reading horror books, and petting every dog I see. 
   
-### Languages and Tools:
-![programming languages](https://user-images.githubusercontent.com/80724077/124001614-d23bdd00-d9a2-11eb-953f-b21423cca8fe.png)
-
 📫    How to reach me:
 - **Email:** [sarahdepalo99@gmail.com](sarahdepalo99@gmail.com)
 - **LinkedIn:** [Sarah dePalo](https://www.linkedin.com/in/sarahdepalo/)
