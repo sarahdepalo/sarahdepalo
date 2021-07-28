@@ -7,8 +7,6 @@ I'm currently attending DigitalCraft's full-stack bootcamp and am loving the cha
 - **LinkedIn:** [Sarah dePalo](https://www.linkedin.com/in/sarahdepalo/)
 
 🌱  I’m currently learning
-- PostgreSQL
-- Node.js
 - React
 
 <!--
