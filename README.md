@@ -8,6 +8,8 @@ I'm currently attending DigitalCraft's full-stack bootcamp and am loving the cha
 
 🌱  I’m currently learning
 - React
+- Typescript
+- 
 
 <!--
 **sarahdepalo/sarahdepalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
