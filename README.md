@@ -1,6 +1,6 @@
 ## Hi there, I'm Sarah! 👋
 
-I'm currently attending DigitalCraft's full-stack bootcamp and am loving the challenge and learning everything I can about web development. I enjoy debugging, designing, and working with all things JavaScript and CSS. When I'm not coding, you can find me cooking up new recipies, reading horror books, and petting every dog I see. 
+Recent full-stack bootcamp grad that loves the challenge and learning involved with coding. I enjoy debugging, designing, and working with React, Express, and PostgreSQL. When I'm not coding, you can find me cooking up new recipes, reading horror books, and petting every dog I see. 
   
 📫    How to reach me:
 - **Email:** [sarahdepalo99@gmail.com](sarahdepalo99@gmail.com)
@@ -8,6 +8,8 @@ I'm currently attending DigitalCraft's full-stack bootcamp and am loving the cha
 
 🌱  I’m currently learning
 - Typescript
+- SASS
+- Angular
 <!--
 **sarahdepalo/sarahdepalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
