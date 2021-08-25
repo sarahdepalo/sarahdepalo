@@ -10,6 +10,9 @@ Recent full-stack bootcamp grad that loves the challenge and learning involved w
 - Typescript
 - SASS
 - Angular
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdepalo&theme=dark&show_icons=true)
+
 <!--
 **sarahdepalo/sarahdepalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
