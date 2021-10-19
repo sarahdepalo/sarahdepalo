@@ -1,8 +1,8 @@
-## Hi there, I'm Sarah! 👋
+## Hi, I'm Sarah! 👋
 
 Recent full-stack bootcamp grad that loves the challenge and learning involved with coding. I enjoy debugging, designing, and working with React, Express, and PostgreSQL. When I'm not coding, you can find me cooking up new recipes, reading horror books, and petting every dog I see. 
   
-📫    How to reach me:
+✨    Connect With Me:
 - **Email:** [sarahdepalo99@gmail.com](sarahdepalo99@gmail.com)
 - **LinkedIn:** [Sarah dePalo](https://www.linkedin.com/in/sarahdepalo/)
 
