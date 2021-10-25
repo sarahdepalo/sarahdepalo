@@ -23,11 +23,11 @@ Recent full-stack bootcamp grad that loves the challenge and lifelong learning i
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="sass" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="sass" width="40" height="40"/>
-  
+
   </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sarahdepalo&theme=react&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdepalo&layout=compact&theme=react" width="400" />
   </p>
 
 
