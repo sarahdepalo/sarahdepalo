@@ -6,7 +6,7 @@
 <a href="https://sarahdepalo.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
   </p>
 
-Recent full-stack bootcamp grad that loves the challenge and lifelong learning involved with coding. I enjoy debugging, designing, and working with React. When I'm not coding, you can find me cooking up new recipes, reading horror books, and petting every dog I see. 
+Web developer that loves the challenge and constant learning involved with coding. I enjoy debugging, designing, and working with React. When I'm not coding, you can find me cooking up new recipes, reading horror books, and petting every dog I see. 
   
 🌱  I’m currently learning:
 - Typescript
