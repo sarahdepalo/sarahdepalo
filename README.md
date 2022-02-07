@@ -11,7 +11,6 @@ Web developer that loves the challenge and constant learning involved with codin
 🌱  I’m currently learning:
 - Typescript
 - Angular
-- How to be a puppy mom (getting my first pup in Spring!) 🐶
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
