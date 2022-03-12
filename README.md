@@ -9,8 +9,8 @@
 Web developer that loves the challenge and constant learning involved with coding. I enjoy debugging, designing, and working with React. When I'm not coding, you can find me eating too much Italian food, playing PS2 games, and petting every dog I see. 
   
 🌱  I’m currently learning:
-- Typescript
-- Angular
+- MongoDB
+- PHP
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
