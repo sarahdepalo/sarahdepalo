@@ -6,11 +6,11 @@
 <a href="https://sarahdepalo.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode" /></a>&nbsp;
   </p>
 
-Web developer that loves the challenge and constant learning involved with coding. I enjoy debugging, designing, and working with React. When I'm not coding, you can find me eating too much Italian food, playing PS2 games, and petting every dog I see. 
+Web developer that loves the challenge and constant learning involved with coding. When I'm not coding, you can find me eating too much Italian food, playing video games, and petting every dog I see. 
   
 🌱  I’m currently learning:
+- C
 - MongoDB
-- PHP
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
@@ -21,7 +21,7 @@ Web developer that loves the challenge and constant learning involved with codin
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
   </p>
