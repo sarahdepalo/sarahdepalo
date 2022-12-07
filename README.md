@@ -8,9 +8,6 @@
 
 Web developer that loves the challenge and constant learning involved with coding. When I'm not coding, you can find me eating too much Italian food, playing video games, and petting every dog I see. 
   
-🌱  I’m currently learning:
-- C
-- MongoDB
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
