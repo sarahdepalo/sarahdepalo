@@ -23,9 +23,7 @@ Web developer that loves the challenge and constant learning involved with codin
 
   </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarahdepalo&theme=react&show_icons=true" width="450"/>
-  </p>
+
 
 
 
